@@ -1,4 +1,4 @@
-/* Copyright 2015 Peter Goodman (peter@trailofbits.com), all rights reserved. */
+/* Copyright 2017 Peter Goodman (peter@trailofbits.com), all rights reserved. */
 
 var express = require('express');
 var http = require("http");
